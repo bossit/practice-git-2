@@ -1,3 +1,4 @@
 ubuntu
 PHP7
 Symfony3/Yii2
+NoSQL
